@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/mrinal bhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrinal bhan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/oompalompa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="oompalompa" height="30" width="40" /></a>
 <a href="https://discord.gg/jigsaw#2539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jigsaw#2539" height="30" width="40" /></a>
- <a href="https://mail.google.com/mail/?to=bhanmrinal@gmail.com" target="blank"><img align="center" src="https://image.similarpng.com/very-thumbnail/2020/12/Gmail-logo-design-on-transparent-background-PNG.png" alt="bhanmrinal@gmail.com" height="30" width="40" /></a>
+ <a href="https://mail.google.com/mail/?to=bhanmrinal@gmail.com" target="blank"><img align="center" src="https://www.vecteezy.com/vector-art/2557425-google-mail-icon-logo-isolated-on-transparent-background" alt="bhanmrinal@gmail.com" height="30" width="40" /></a>
 </p> 
 
 
