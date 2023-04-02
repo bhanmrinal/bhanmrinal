@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Mrinal</h1>
-🔭 I’m currently working on "Neural LOLgorithm" (https://github.com/Mrinal19/Computational-Humor)<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning Full - Stack Development <br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working on "Neural LOLgorithm" (https://github.com/Mrinal19/Computational-Humor)<br>🤝 I’m looking for help with learning Development & Graphic Design🌱 I’m currently learning Full - Stack Development <br>
 
 
 ## 🌐 Socials:
