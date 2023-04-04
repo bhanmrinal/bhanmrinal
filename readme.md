@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mrinal</h1>
-🔭 I’m currently working on "Neural LOLgorithm" (https://github.com/Mrinal19/Computational-Humor)<br>
+🔭 I’m currently working on "Neural LOLgorithm" (https://github.com/bhanmrinal/Computational-Humor)<br>
 🤝 I’m looking for help with learning Development & Graphic Design <br>
 🌱 I’m currently learning Full - Stack Development <br>
 
@@ -19,10 +19,10 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=mrinal19&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=mrinal19&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mrinal19&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=bhanmrinal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bhanmrinal&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bhanmrinal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=mrinal19&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=bhanmrinal&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
