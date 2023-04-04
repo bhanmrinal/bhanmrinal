@@ -27,11 +27,8 @@
 ![](https://github-contributor-stats.vercel.app/api?username=bhanmrinal&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## LeetCode Stats
-## My GitHub and LeetCode Stats
-<br />
-
 <p float="left">
-![image](https://leetcode-stat-api.herokuapp.com/oompalompa/theme=tokyonight)
-<img src="https://leetcard.jacoblin.cool/oompalompa?theme=tokyonight" />
+![image](https://leetcode-stat-api.herokuapp.com/oompalompa/theme=dark)
+<img src="https://leetcard.jacoblin.cool/oompalompa?theme=dark" />
 </p>
 
