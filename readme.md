@@ -28,7 +28,6 @@
 
 ## LeetCode Stats
 <p float="left">
-![image](https://leetcode-stat-api.herokuapp.com/oompalompa/theme=dark)
 <img src="https://leetcard.jacoblin.cool/oompalompa?theme=dark" />
 </p>
 
