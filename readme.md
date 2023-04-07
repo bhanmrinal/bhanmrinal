@@ -7,7 +7,7 @@
 ## 🌐 Socials:
 <p align="left">
 <a href="https://twitter.com/oompaalompaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="oompaalompaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mrinal bhan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrinal bhan" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mrinal-bhan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mrinal bhan" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/oompalompa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="oompalompa" height="30" width="40" /></a>
 <a href="https://discord.gg/jigsaw#2539" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="jigsaw#2539" height="30" width="40" /></a>
 <a href="mailto:bhanmrinal@gmail.com" target="blank"><img align="center" src="https://seeklogo.com/images/G/gmail-icon-logo-9ADB17D3F3-seeklogo.com.png" height="30" width="40" /></a>
