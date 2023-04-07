@@ -26,8 +26,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=bhanmrinal&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
-## LeetCode Stats
+<!-- ## LeetCode Stats
 <p float="left">
-<img src="https://leetcard.jacoblin.cool/oompalompa?theme=dark" />
-</p>
-
+<img src="https://leetcard.jacoblin.cool/oompalompa?theme=dark" /> -->
+<!-- </p>
+ -->
