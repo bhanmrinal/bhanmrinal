@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mrinal</h1>
-🔭 I’m currently working on "Real-Time Neural Style Transfer"<br>
+🔭 I’m currently working on "LLMs See Further: Comparing Approaches to Extend Context Window in LLMs"<br>
 🤝 I’m looking for help with AI & ML tools <br>
-🌱 I’m currently learning Deep Learning <br>
+🌱 I’m currently learning Gen-AI <br>
 
 
 ## 🌐 Socials:
