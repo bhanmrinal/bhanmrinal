@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
+![image](https://github.com/bhanmrinal/bhanmrinal/assets/97622240/e2b60fd4-e22c-47ae-b1d3-a902e78e2067)<h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+and+Leveling+up.%22" alt="Typing SVG" />
 </h1>
 
 <img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
@@ -7,7 +7,7 @@
 🔭 I’m an AI/ML Developer & a Data Science Enthusiast<br>
 🎯 I’m current working on Extending context windows in LLMs like TinyLlama<br>
 🌱 I’m currently learning implementing RAG in LLMs <br>
-⚡Portfolio website: [Portfolio]()
+⚡Portfolio website: [Portfolio](https://bhanmrinal-github-io.vercel.app/)
 
 💻 ***Things I love***
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
