@@ -7,7 +7,7 @@
 🔭 I’m an AI/ML Developer & a Data Science Enthusiast<br>
 🎯 I’m current working on Extending context windows in LLMs like TinyLlama<br>
 🌱 I’m currently learning implementing RAG in LLMs <br>
-⚡Portfolio website: [Portfolio](https://bhanmrinal-github-io.vercel.app/)
+⚡**Portfolio website: [https://bhanmrinal-github-io.vercel.app/](https://bhanmrinal-github-io.vercel.app/)**
 
 💻 ***Things I love***
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
