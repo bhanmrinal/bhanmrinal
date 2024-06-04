@@ -6,7 +6,7 @@
 ### Hi there, I'm Mrinal 👋
 🔭 I’m an AI/ML Developer & a Data Science Enthusiast<br>
 🎯 I’m current working on Extending context windows in LLMs like TinyLlama<br>
-🌱 I’m currently learning implementing RAG in LLMs <br>
+🌱 I’m currently learning to implement RAG in LLMs <br>
 ⚡**Portfolio website: [https://bhanmrinal-github-io.vercel.app/](https://bhanmrinal-github-io.vercel.app/)**
 
 💻 ***Things I love***
