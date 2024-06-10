@@ -11,8 +11,8 @@
 
 💻 ***Things I love***
 - Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- AI & ML🧐
-- Data Science 😬
+- AI / ML 🤖
+- Data Science 🔬
 - Backend Development ✍️
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
