@@ -36,14 +36,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,c,cpp,django,mysql,opencv,r,selenium,fastapi,flask,git,github,graphql,html,css,jquery,latex,matlab,mongodb&perline=7)](https://skillicons.dev)
 
-
 <br>
     
 ### FrameWorks
 [![My Skills](https://skillicons.dev/icons?i=anaconda,aws,azure,firebase,gcp,linux,notion,obsidian,ps,ai,powershell,sklearn,tensorflow,vscode&perline=7)](https://skillicons.dev)
 
 <a>
-    <img align="left" width=420 height="300" src= "https://github-readme-streak-stats.herokuapp.com/?user=bhanmrinal&theme=dark&hide_border=true"/>
+    <img align="left" width=400 height="300" src= "https://github-readme-streak-stats.herokuapp.com/?user=bhanmrinal&theme=dark&hide_border=true"/>
 </a>
 
 
