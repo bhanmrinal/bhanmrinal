@@ -16,8 +16,9 @@
 - Backend Development ✍️
 
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api?username=bhanmrinal&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true"/>
+      <img align="right" width=420 height="auto" src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanmrinal&show_icons=true&theme=dark&border_color=61dafb&hide_border=true&include_all_commits=true"/>
     </a>
+   
     
 
 🌐 ***Socials***<br><br>
