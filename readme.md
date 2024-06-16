@@ -37,7 +37,7 @@
 ___
 
 <div align="center">
-  <img alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanmrinal&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&bg_color=282c34&hide_border=true" height="200" width = "400" />
+  <img alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanmrinal&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&bg_color=282c34&hide_border=true" height="200" width = "500" />
   <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanmrinal&langs_count=6&layout=compact&theme=chartreuse-dark&hide_border=true" height="200" width = "400" />
 </div>
 
