@@ -35,11 +35,12 @@
 
 
 ___
-<div style="display: flex; flex-direction: row;">
- <img align="left" alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanmrinal&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&bg_color=282c34&hide_border=true" height="200" width = "500" />
-  <img align="right" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanmrinal&langs_count=6&layout=compact&theme=chartreuse-dark&hide_border=true" height="200" width = "400" />
-</div>
 
+<div style="display:flex;flex-direction:row;justify-content:center;">
+    <img height="140"  src="https://streak-stats.demolab.com/?user=bhanmrinal&count private=true&theme=chartreuse-dark&border_radius-10" alt="streak stats" style="margin: 0" />
+  <img height="140"  src="https://github-readme-stats-salesp07.vercel.app/api?username=bhanmrinal&count_private=true&show_icons=true&theme=chartreuse-dark&rank_icon=github&border_radius=5" alt="readme stats" style="margin: 0" /> 
+  <img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanmrinal&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark&border_radius=4&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" style="margin: 0" />
+</div>
 
 <br />
 
