@@ -37,17 +37,19 @@
 ___
 
 <div align="center">
-  <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=bhanmrinal&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&bg_color=282c34&hide_border=true" height="200" />
-  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanmrinal&langs_count=10&layout=compact&theme=chartreuse-dark&bg_color=282c34&hide_border=true" height="200" />
+  <img alt="Github Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=bhanmrinal&show_icons=true&include_all_commits=true&count_private=true&theme=chartreuse-dark&bg_color=282c34&hide_border=true" height="200" />
+  <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanmrinal&langs_count=6&layout=compact&theme=chartreuse-dark&hide_border=true" height="200" />
 </div>
 
 <br />
 
 <div align="center">
-  <img alt="Mrinal Bhan's GitHub | Stats" src="https://stats.quine.sh/bhanmrinal/github?theme=dark" />
-  <img alt="Mrinal Bhan's GitHub | Dependencies" src="https://stats.quine.sh/bhanmrinal/dependencies?theme=chartreuse-dark" />
+<!--   <img alt="Mrinal Bhan's GitHub | Stats" src="https://stats.quine.sh/bhanmrinal/github?theme=dark" /> -->
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanmrinal&theme=github_dark" alt="Mrinal's GitHub Contribution" /> 
+  </a>
 </div>
 
 ___
 
-<img align="left" src="https://profile-counter.glitch.me/{bhanmrinal}/count.svg" alt="bhanmrinal :: Visitor's Count" />
+<img align="right" src="https://profile-counter.glitch.me/{bhanmrinal}/count.svg" alt="bhanmrinal :: Visitor's Count" />
+
