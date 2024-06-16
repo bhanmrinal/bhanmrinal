@@ -36,7 +36,7 @@
 
 ___
 
-<div style="display:flex;flex-direction:row;justify-content:center;">
+<div align="center" style="display:flex;flex-direction:row;justify-content:center">
   <img height="140"   src="https://streak-stats.demolab.com/?user=bhanmrinal&count private=true&theme=chartreuse-dark&hide_border=true" alt="streak stats" style="margin: 0" />
   <img height="140"  src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanmrinal&show_icons=true&hide_border=true&locale=en&layout=compact&theme=chartreuse-dark&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="salma-elbakkouri" style="margin: 0" />
 </div>
