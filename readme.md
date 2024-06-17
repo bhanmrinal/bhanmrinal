@@ -1,38 +1,47 @@
 <h1 align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=9B72FF&random=false&width=435&lines=%22Learning%2C+Living%2C+Leveling+Up.%22" alt="Typing SVG" />
 </h1>
 
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330">
+```plaintext
+╔════════════════════════ Hey There! ════════════════════════╗ 
+║ I’m an AI/ML Developer & a Data Science Enthusiast         ║ 
+║                                                            ║ 
+║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ 
+║ Web Development, Cloud and basically every other thing out ║ 
+║ there. I love working with various tools and keeping up    ║
+║ with new tech in the market.                               ║ 
+╚════════════════════════════════════════════════════════════╝
+⚡Mrinal Bhan 
+┣━━ 🔭 AI/ML & Data Science
+┃   ┣━━ ⭐ Deep Learning, Transformers, Machine Learning
+┃   ┣━━ ⭐ LLMs, NLP, OpenCV, 
+┃   ┣━━ ⭐ Python, Django, FLask, FastAPI
+┃   ┗━━ ⭐ SQL, PHP, Ruby on Rails*
+┣━━ 🔢 Mathematics
+┣━━ 🤖 AI/ML/NLP/Generative AI
+┗━━ ✍️ Back-end Development
+```
 
-### Hi there, I'm Mrinal 👋
-🔭 I’m an AI/ML Developer & a Data Science Enthusiast<br>
-🎯 I’m current working on Extending context windows in LLMs like TinyLlama<br>
-🌱 I’m currently learning to implement RAG in LLMs <br>
-⚡**Portfolio website: [Link](https://bhanmrinal-github-io.vercel.app/)**
 
-💻 ***Things I love***
-- Python <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- AI / ML 🤖
-- Data Science 🔬
-- Backend Development ✍️
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330" />
 
-    
-
-🌐 ***Socials***<br><br>
+### 🌐 Socials <br>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinal-bhan/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanmrinal@gmail.com) 
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrinalbhan/)
 [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/oompaloompa)
-<br><br>
+[![Portfolio](https://img.shields.io/badge/%27Portfolio-20B2AA?style=for-the-badge)](https://bhanmrinal-github-io.vercel.app/) 
+  
+
+<br>
 
 
 
 <img width="150" height="40" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/96fc909c-2e49-4d81-8f7e-b46471d60e53">
 <br>
+
+
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,django,mysql,opencv,r,selenium,fastapi,flask,git,github,graphql,html,css,jquery,latex,matlab,mongodb,anaconda,aws,azure,firebase,gcp,linux,notion,obsidian,powershell,sklearn,tensorflow,vscode&perline=10)](https://skillicons.dev)
 <br>
-
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,django,mysql,opencv,r,selenium,fastapi,flask,git,github,graphql,html,css,jquery,latex,matlab,mongodb,anaconda,aws,azure,firebase,gcp,linux,notion,obsidian,powershell,sklearn,tensorflow,vscode)](https://skillicons.dev)
-
-
 
 ___
 
@@ -50,6 +59,5 @@ ___
 </div>
 
 ___
-
-<img align="right" src="https://profile-counter.glitch.me/{bhanmrinal}/count.svg" alt="bhanmrinal :: Visitor's Count" />
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"/>  <img align="right" src="https://profile-counter.glitch.me/{bhanmrinal}/count.svg" alt="bhanmrinal :: Visitor's Count" />
 
