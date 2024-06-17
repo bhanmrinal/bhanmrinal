@@ -46,7 +46,7 @@ ___
 
 <div align="center">
 <!--   <img alt="Mrinal Bhan's GitHub | Stats" src="https://stats.quine.sh/bhanmrinal/github?theme=dark" /> -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanmrinal&theme=github_dark" alt="Mrinal's GitHub Contribution" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanmrinal&theme=tokyonight" alt="Mrinal's GitHub Contribution" /> 
   </a>
 </div>
 
