@@ -2,23 +2,15 @@
 </h1>
 
 ```plaintext
-╔════════════════════════ Hey There! ════════════════════════╗ 
-║ I’m an AI/ML Developer & a Data Science Enthusiast         ║ 
-║                                                            ║ 
-║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ 
-║ Web Development, Cloud and basically every other thing out ║ 
-║ there. I love working with various tools and keeping up    ║
-║ with new tech in the market.                               ║ 
-╚════════════════════════════════════════════════════════════╝
-⚡Mrinal Bhan 
-┣━━ 🔭 AI/ML & Data Science
-┃   ┣━━ ⭐ Deep Learning, Transformers, Machine Learning
-┃   ┣━━ ⭐ LLMs, NLP, OpenCV, 
-┃   ┣━━ ⭐ Python, Django, FLask, FastAPI
-┃   ┗━━ ⭐ SQL, PHP, Ruby on Rails*
-┣━━ 🔢 Mathematics
-┣━━ 🤖 AI/ML/NLP/Generative AI
-┗━━ ✍️ Back-end Development
+╔════════════════════════ Hey There! ════════════════════════╗ ⚡Mrinal Bhan 
+║ I’m an AI/ML Developer & a Data Science Enthusiast         ║ ┣━━ 🔭 AI/ML & Data Science
+║                                                            ║ ┃   ┣━━ ⭐ Deep Learning, Transformers, Machine Learning
+║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ ⭐ LLMs, NLP, OpenCV, 
+║ Web Development, Cloud and basically every other thing out ║ ┃   ┣━━ ⭐ Python, Django, FLask, FastAPI
+║ there. I love working with various tools and keeping up    ║ ┃   ┗━━ ⭐ SQL, PHP, Ruby on Rails*
+║ with new tech in the market.                               ║ ┣━━ 🔢 Mathematics & Trading
+╚════════════════════════════════════════════════════════════╝ ┗━━ ✍️ Back-end Development
+
 ```
 
 
