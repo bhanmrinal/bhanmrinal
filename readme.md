@@ -46,10 +46,11 @@ ___
 
 <div align="center">
 <!--   <img alt="Mrinal Bhan's GitHub | Stats" src="https://stats.quine.sh/bhanmrinal/github?theme=dark" /> -->
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanmrinal&theme=tokyonight" alt="Mrinal's GitHub Contribution" /> 
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanmrinal&theme=chartreuse_dark" alt="Mrinal's GitHub Contribution" /> 
   </a>
 </div>
 
 ___
+
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"/>  <img align="right" src="https://profile-counter.glitch.me/{bhanmrinal}/count.svg" alt="bhanmrinal :: Visitor's Count" />
 
