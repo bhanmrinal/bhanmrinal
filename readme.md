@@ -21,15 +21,12 @@
  
   
 </div>
-
-<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330" />
-
-
 <br>
 
+<img align="right" src="https://github.com/rajaprerak/rajaprerak/blob/master/developer.gif" alt="Coder GIF" width="420" height="330" />
+<img align="left" width="150" height="40" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/96fc909c-2e49-4d81-8f7e-b46471d60e53">
+<br>
 
-
-<img width="150" height="40" src="https://github.com/vinodjangid07/vinodjangid07/assets/86096184/96fc909c-2e49-4d81-8f7e-b46471d60e53">
 <br>
 
 
