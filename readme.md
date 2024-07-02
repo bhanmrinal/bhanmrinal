@@ -6,7 +6,7 @@
 ║ I’m an AI/ML Developer & a Data Science Enthusiast         ║ ┣━━ 🔭 AI/ML & Data Science
 ║                                                            ║ ┃   ┣━━ ⭐ Deep Learning, Transformers, Machine Learning
 ║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ ⭐ LLMs, NLP, OpenCV, 
-║ Web Development, Cloud and basically every other thing out ║ ┃   ┣━━ ⭐ Python, Django, FLask, FastAPI
+║ Back-End Development, Cloud and basically every other thing out ║ ┃   ┣━━ ⭐ Python, Django, FLask, FastAPI
 ║ there. I love working with various tools and keeping up    ║ ┃   ┗━━ ⭐ SQL, PHP, Ruby on Rails*
 ║ with new tech in the market.                               ║ ┣━━ 🔢 Mathematics & Trading
 ╚════════════════════════════════════════════════════════════╝ ┗━━ ✍️ Back-end Development
