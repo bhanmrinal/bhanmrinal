@@ -29,7 +29,7 @@
 <br>
 
 
-[![My Skills](https://skillicons.dev/icons?i=py,cpp,django,mysql,opencv,r,selenium,fastapi,flask,git,github,graphql,html,css,jquery,latex,matlab,mongodb,anaconda,aws,azure,firebase,gcp,linux,notion,obsidian,powershell,sklearn,tensorflow,vscode&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,cpp,cs,rails,mysql,opencv,r,php,selenium,fastapi,flask,django,git,github,graphql,html,css,jquery,latex,matlab,mongodb,anaconda,aws,azure,firebase,gcp,postman,linux,notion,obsidian,powershell,sklearn,pytorch,tensorflow,vscode&perline=7)](https://skillicons.dev)
 <br>
 
 ___
