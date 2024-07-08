@@ -16,8 +16,9 @@
   [![Portfolio](https://img.shields.io/badge/%20Portfolio-20B2AA?style=for-the-badge&logo=bilibili&logoColor=white)](https://bhanmrinal-github-io.vercel.app/) 
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinal-bhan/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanmrinal@gmail.com) 
-  [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrinalbhan/)
-  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/oompaalompaa)
+  <!-- [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrinalbhan/)
+  [![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/oompaalompaa) 
+  -->
  
   
 </div>
