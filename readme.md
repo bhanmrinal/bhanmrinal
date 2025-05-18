@@ -35,7 +35,7 @@
 
 ___
 
-<div align="center" style="display:flex;flex-direction:row;justify-content:center">
+<div style="display:flex;flex-direction:row;justify-content:center">
   <img height="175"  src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanmrinal&show_icons=true&hide_border=true&locale=en&layout=compact&theme=aura&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" style="margin: 0" />
   <img height="175" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanmrinal&theme=aura" alt="Mrinal's GitHub Contribution" /> 
 
