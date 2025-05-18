@@ -35,18 +35,15 @@
 
 ___
 
-<div style="display:flex;flex-direction:row;justify-content:center">
-  <img height="175"  src="https://github-readme-stats.vercel.app/api/top-langs?username=bhanmrinal&show_icons=true&hide_border=true&locale=en&layout=compact&theme=aura&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" style="margin: 0" />
-  <img height="175" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanmrinal&theme=aura" alt="Mrinal's GitHub Contribution" /> 
-
-</div>
-
-<br />
+### 📊 GitHub Stats
 
 <div align="center">
-<!--   <img alt="Mrinal Bhan's GitHub | Stats" src="https://stats.quine.sh/bhanmrinal/github?theme=dark" /> -->
-  </a>
-</div>
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanmrinal&layout=compact&theme=aura&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=bhanmrinal&theme=aura&hide_border=true" />
+  <img height="175" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanmrinal&theme=aura" />
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=bhanmrinal&theme=aura&margin-w=15&no-frame=true" />
+</div> -->
+
 
 ___
 
