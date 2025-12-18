@@ -41,11 +41,11 @@ ___
   <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanmrinal&layout=compact&theme=aura&hide_border=true" />
   <img height="175" src="https://streak-stats.demolab.com?user=bhanmrinal&theme=aura&hide_border=true" />
   <img height="175" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanmrinal&theme=aura" />
-<!--   <img src="https://github-profile-trophy.vercel.app/?username=bhanmrinal&theme=aura&margin-w=15&no-frame=true" />
-</div> -->
+  <img src="https://github-profile-trophy.vercel.app/?username=bhanmrinal&theme=aura&margin-w=15&no-frame=true" />
+</div> 
 
 
 ___
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"/>  <img align="right" src="https://profile-counter.glitch.me/{bhanmrinal}/count.svg" alt="bhanmrinal :: Visitor's Count" />
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"/> 
 
