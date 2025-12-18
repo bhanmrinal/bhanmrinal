@@ -17,6 +17,9 @@
   [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrinal-bhan/)
   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bhanmrinal@gmail.com) 
   [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mrinalbhan/)
+  <a href="https://steamcommunity.com/id/bhansahab">
+    <img src="https://img.shields.io/badge/Steam-bhansahab-171a21?style=for-the-badge&logo=steam&logoColor=white" alt="Steam Profile" />
+  </a>
    <!--[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/oompaalompaa) 
   -->
  
@@ -38,14 +41,27 @@ ___
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanmrinal&layout=compact&theme=aura&hide_border=true" />
-  <img height="175" src="https://streak-stats.demolab.com?user=bhanmrinal&theme=aura&hide_border=true" />
-  <img height="175" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanmrinal&theme=aura" />
-  <img src="https://github-profile-trophy.vercel.app/?username=bhanmrinal&theme=aura&margin-w=15&no-frame=true" />
-</div> 
 
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanmrinal&layout=compact&theme=aura&hide_border=true" alt="Top Languages" />
+  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanmrinal&theme=aura" alt="Profile Details" />
 
-___
+  <br/>
+  <br/>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"/> 
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hqtt997peji48rmzujfd08rnd&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hqtt997peji48rmzujfd08rnd&cover_image=true&theme=spotify-embed&show_offline=false&background_color=151515&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" />
+  </a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"/>
+</div>
+
+  
+
+</div>
+
 
