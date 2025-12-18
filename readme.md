@@ -4,10 +4,10 @@
 ```plaintext
 ╔════════════════════════ Hey There! ════════════════════════╗ ⚡Mrinal Bhan 
 ║ I’m an AI/ML Developer & a Data Science Enthusiast         ║ ┣━━ 🔭 AI/ML & Data Science
-║                                                            ║ ┃   ┣━━ ⭐ Deep Learning, Transformers, Machine Learning
-║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ ⭐ LLMs, NLP, OpenCV, 
-║ Back-End Development, Cloud and basically everything Tech  ║ ┃   ┣━━ ⭐ Python, Django, FLask, FastAPI
-║ out there. I love working with various tools & keeping up  ║ ┃   ┗━━ ⭐ SQL, PHP, Ruby on Rails*
+║                                                            ║ ┃   ┣━━ ⭐ Voice + Conversational AI, Fintech
+║ My areas of interest are AI/ML, LLMs, NLP, Data Science,   ║ ┃   ┣━━ ⭐ LLMs, NLP, ML 
+║ Software Development (BE),  and basically everything Tech  ║ ┃   ┣━━ ⭐ Python, Transformers, FastAPI
+║ out there. I love working with various tools & keeping up  ║ ┃   ┗━━ ⭐ SQL, Javascript, Golang*
 ║ with new tech in the market.                               ║ ┣━━ 🔢 Mathematics & Trading
 ╚════════════════════════════════════════════════════════════╝ ┗━━ ✍️ Back-end Development
 ```
@@ -42,26 +42,25 @@ ___
 
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanmrinal&layout=compact&theme=aura&hide_border=true" alt="Top Languages" />
-  <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanmrinal&theme=aura" alt="Profile Details" />
+  <table>
+    <tr>
+      <td align="center" style="border: none;">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhanmrinal&layout=compact&theme=aura&hide_border=true" alt="Top Langs" />
+      </td>
+      <td align="center" style="border: none;">
+        <img height="180" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bhanmrinal&theme=aura" alt="Profile Details" />
+      </td>
+    </tr>
+  </table>
 
-  <br/>
   <br/>
 
   <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=hqtt997peji48rmzujfd08rnd&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hqtt997peji48rmzujfd08rnd&cover_image=true&theme=spotify-embed&show_offline=false&background_color=151515&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" />
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=hqtt997peji48rmzujfd08rnd&cover_image=true&theme=spotify-embed&show_offline=false&background_color=151515&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" alt="Spotify" />
   </a>
-
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"/>
-</div>
-
   
+  <br> <br/>
+  
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="60"/>
 
 </div>
-
-
